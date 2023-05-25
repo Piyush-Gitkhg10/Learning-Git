@@ -13,4 +13,8 @@
 5. The "reset" command is necessary to drop the files once they have been staged. Meaning they have been added in the using "add" command.
 6. And the checkout command is used to revert all the changes to the last commit. 
     6.1 Even if the files are commited.
+7. Preview of the readme.md files do not Preview in the same manner as it is written here (In the code editor).
+    7.1 So to fix this used pre tag. 
+        7.1.1 It was a dirty fix, so it needs to be fixed.
+
 </pre>
