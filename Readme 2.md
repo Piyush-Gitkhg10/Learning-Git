@@ -1,5 +1,6 @@
 # Summarising Observations
 
+<pre>
 1. Using visual studio code is best
 2. Makrdown files on the local machine are automatically designed to open in Visual studio code
 3. Always use commit with some message attached to it otherwise it will cause problem.
@@ -12,3 +13,4 @@
 5. The "reset" command is necessary to drop the files once they have been staged. Meaning they have been added in the using "add" command.
 6. And the checkout command is used to revert all the changes to the last commit. 
     6.1 Even if the files are commited.
+</pre>
