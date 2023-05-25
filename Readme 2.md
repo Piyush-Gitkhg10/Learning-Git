@@ -17,4 +17,5 @@
         7.1.1 It was a dirty fix, so it needs to be fixed.
 9. Using br tag in Markdown files will help me achieve the goal of adding new lines for new-indented lines.
 10. Used branching and its attributes to learn its concepts.
-10. Adding same number of lines in the branch as well.
+10. Adding same number of lines in the branch as well. </br>
+    10.1 Added the above line from branch and then merged it into master.
