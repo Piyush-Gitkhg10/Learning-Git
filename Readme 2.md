@@ -4,3 +4,4 @@
 2. Makrdown files on the local machine are automatically designed to open in Visual studio code
 3. Always use commit with some message attached to it otherwise it will cause problem.
     3.1 Using GitHub and Git will make me habitual to it.
+4. Adding this line to use "diff" "--staged" and "checkout" commands.
