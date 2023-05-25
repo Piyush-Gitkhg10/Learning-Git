@@ -15,3 +15,4 @@
 7. Preview of the readme.md files do not Preview in the same manner as it is written here (In the code editor). </br>
     7.1 So to fix this used pre tag. </br>
         7.1.1 It was a dirty fix, so it needs to be fixed.
+9. Using br tag in Markdown files will help me achieve the goal of adding new lines for new-indented lines.
